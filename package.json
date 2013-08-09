@@ -1,0 +1,25 @@
+{
+  "name": "json-body",
+  "version": "0.0.0",
+  "description": "Concat stream and parse JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tellnes/json-body.git"
+  },
+  "keywords": [
+    "json",
+    "body",
+    "parse",
+    "stream",
+    "concat"
+  ],
+  "bugs": {
+    "url": "https://github.com/tellnes/json-body/issues"
+  }
+}
